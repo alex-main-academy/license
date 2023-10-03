@@ -642,7 +642,7 @@ h3 {
 }
 
 .service__item {
-  min-height: 375px;
+  min-height: 385px;
   width: calc((100% - 20px) / 2);
   display: -webkit-box;
   display: -ms-flexbox;
